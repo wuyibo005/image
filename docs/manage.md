@@ -3,8 +3,8 @@
 
 1. 创建D1数据库 如图
 
-<img src="./img/D1_1.png"   height="50%" width="50%"/>
-<img src="./img/d10.png"   height="50%" width="50%"/>
+<img src="../D1_1.png"   height="50%" width="50%"/>
+<img src="../d10.png"   height="50%" width="50%"/>
 
 2. 执行sql命令创建表（在控制台输入框粘贴下面语句执行即可）
 ```sql
